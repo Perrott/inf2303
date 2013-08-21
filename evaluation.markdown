@@ -13,13 +13,14 @@ Students are expected to take responsibility for their learning of the
 
 Grades will be based on the following components:
 
-  * preparation for the class (“memos,” **15%** of the course grade),
-  * contribution to class discussion (**15%**),
-  * the term paper (three deliverables jointly worth **50%**),
+  * preparation for the class (“memos,” **20%** of the course grade),
+  * contribution to class discussion (**10%**),
+  * two or three class reports - memo summaries (**10%**)
+  * the term paper (three deliverables Proposal 10% Presentation 10% Final Paper 30 % = Total, **50%**)
   * reviews of other students’ paper proposals (**10%**),
-  * a course “patch” (**10%**, see below).
 
-### Contribution to Class Discussion — 15%
+
+### Contribution to Class Discussion — 10% and Class Reports - 10%
 
 As the course will be taught in the form of a seminar, students will
   be graded for their contribution to the class discussion.
@@ -35,13 +36,13 @@ Rather, students are expected to come to class prepared, actively
   the readings and of what has been said up to that point.
 Class discussion will follow a structure that will be described in a
   handout.
-Each student will be asked to serve as one of the “chairs” for
-  one week’s discussion and as a “panelist” on several other ones.
+Each student will be assigned a team and will be asked to serve as the "reporter" for
+  two or three week’s discussion. This will entail summarizing the team members' memos.
 Students who have difficulty speaking in public should see the
   instructor early in the semester, so that we could discuss possible
   remedies.
 
-### Memos — 15%
+### Memos — 20%
 
 For all classes other than the first and the last, the students will
   prepare “memos” on the readings assigned for that class.
@@ -81,13 +82,10 @@ A major component of the course is a term paper exploring a specific
 
 There are three deliverables related to this term paper, including:
 
-* a paper proposal,
-* a presentation (on August 19),
-* the final paper.
+* a paper proposal,10%
+* a presentation (on August 14), 10%
+* the final paper. 30%
 
-The proposal, the presentation, and the final paper will be graded
-  <span class="important">together</span> and will be jointly worth
-  50% of your grade.
 
 It is recommended that students work on their papers in <span
   class="important">teams of two</span>.
@@ -138,13 +136,10 @@ Your proposal should also include a **2 page annotated bibliography** of the
 Each source should be accompanied by a brief description, stating what
   it is about and how you plan to use it.
 
-Paper proposals will not receive individual grades, but will be graded
-  together with the final paper.
-
 
 #### Final Presentation
 
-Each team will make a short (5-10 minutes) presentation about their research on the last day of class.
+Each team will make a short (5-10 minutes) presentation about their research on the second last day of class.
 
 #### Final Term Paper
 
@@ -167,9 +162,6 @@ The papers will be shared with other students and will be evaluated by
   meaning or by drawing the reader’s attention from the content of
   your writing to its form.
 
-The final grade for the paper will also incorporate an assessment of
-  your original proposal and the presentation.
-
 ### Paper Proposal Reviews — 10%
 
 Each student will receive three proposals from other teams and will
@@ -180,16 +172,4 @@ Each review should be 1–2 pages long and can include a bibliography if
   appropriate.
 (If you include a bibliography, do not count it towards the page
   limit.)
-
-### A Course “Patch” — 10%
-
-Each student will be asked to submit a “patch” (modification) to the
-  course.
-The “source files” for the course syllabus are available on Github at
-  <https://github.com/yuri/inf2303>.
-The patches will be submitted via Github, which will include the
-  actual modification and a brief summary.
-Additionally, a one-page justification should be submitted via email.
-
-
 
